@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<garden>
+		
+		<plant name="Eugene Pizza">
+				<description>4 cups of flour (can use all-purpose but bread flour will give you a crisper crust)
+1 1/2 teaspoons of salt
+1/2 cups warm water (105°F-115°F)
+2 of active dry yeast
+2 Tbsp olive oil
+1 teaspoon sugar
+In a large bowl mix the warm water and yeast until yeast is dissolved. After sitting for five minutes, stir in the olive oil, flour, salt and sugar. Honey or other specific herbs or flavors may be added at this time depending on desired taste. Don't be afraid to experiment with your dough, always remember that you can seperate the dough into two halves at this point, leaving a backup in case experimentation fails. Knead with hands or mixer until dough is smooth and elastic. 
+
+You are now ready to roll your dough and add your toppings! Basically at this point you are on your own, no where in the bible of pizza making does it say you have to use conventional tomatoe sauce and toppings. Again, don't be afraid to experiment and try new tastes! I personally have my specific favorite combinations and flavors.
+
+As for baking, preheat your oven to 375°F-425°F while you adding your toppings and bake pizza for 9-12 minutes depending on how you want your crust. 
+
+Enjoy!
+</description>
+				<image>images/recipe/pizza.jpg</image>
+			</plant>
+			
+		<plant name="Beltran Beer">
+				<description>Ingredients and processes for 'Beltran Beer' will depend on what type of beer you would like to brew. My brother and I are still yet to experiment outside the recipe book on this one but soon enough we'll have something awesome to share! As of now we have brewed a pilsner, stout, and I.P.A, which all turned out very flavorful and brimming with taste. Check back soon!</description>
+				<image>images/recipe/beer.jpg</image>
+			</plant>
+			
+		<plant name="Fresh Strawberry Jam">
+				<description>This is a secret recipe that you will soon be able to find on the back of 'K&E Strawberry Jam' labels at a local grocery store near you! Basically, the process begins in the summer at a farm or in your backyard with picking a bucket or two of fresh Oregon strawberries. You can use the store bought ones from California, but if you're not willing to take the time and effort to pick your own fresh berries it will reflect in your jam. For optimal taste and experience, carefully select each berry with measurments of color, density, and weight in mind. </description>
+				<image>images/recipe/strawberryjam.jpg</image>
+			</plant>
+			
+</garden>
